@@ -104,10 +104,10 @@ Input Motherboard Image
 
 ![Defects Only](screenshots/defects_only.png)
 
-## 🚀 Live Demo
-
-👉 [Try the AI Motherboard Inspector](https://ai-motherboard-inspector-by-yash.streamlit.app/)
-
 ### 📊 Inspection Summary
 
 ![Inspection Summary](screenshots/inspection_summary.png)
+
+## 🚀 Live Demo
+
+👉 [Try the AI Motherboard Inspector](https://ai-motherboard-inspector-by-yash.streamlit.app/)
