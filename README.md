@@ -88,3 +88,22 @@ Input Motherboard Image
  Detection Results
           ↓
  CSV / Annotated Image
+
+```
+## 📸 Application Screenshots
+
+### 🖥️ Streamlit Dashboard
+
+![Streamlit Dashboard](screenshots/app_dashboard.png)
+
+### 🔍 AI Detection Results
+
+![AI Detection Results](screenshots/detection_results.png)
+
+### 🚨 Defects-Only Visualization
+
+![Defects Only](screenshots/defects_only.png)
+
+### 📊 Inspection Summary
+
+![Inspection Summary](screenshots/inspection_summary.png)
