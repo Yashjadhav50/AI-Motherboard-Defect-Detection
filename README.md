@@ -74,7 +74,7 @@ Input Motherboard Image
           ↓
      YOLO11n Model
           ↓
-   Object Detection
+    Object Detection
           ↓
  ┌───────────────────┐
  │ Components        │
